@@ -23,4 +23,4 @@ to do
 
 to do
 
-![sunflower clipart]](http://clipart-library.com/clipart/1097250.htm)
+![sunflower clipart](http://clipart-library.com/clipart/1097250.htm)
